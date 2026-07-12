@@ -1,0 +1,11 @@
+test_id,test_name,subsystem,component,status,version,responsible
+ADCS-001,Magnetometer Functional Test,ADCS,Magnetometer,EXAMPLE,v0.1,TBD
+ADCS-002,Gyroscope Functional Test,ADCS,IMU,EXAMPLE,v0.0,TBD
+ADCS-003,Reaction Wheel Functional Test,ADCS,Reaction Wheel,EXAMPLE,v0.0,TBD
+EPS-001,Battery Voltage Measurement Test,EPS,Battery,EXAMPLE,v0.0,TBD
+EPS-002,Solar Panel Output Test,EPS,Solar Panel,EXAMPLE,v0.0,TBD
+OBC-001,Boot Sequence Test,OBC,On-Board Computer,EXAMPLE,v0.0,TBD
+COMMS-001,Transmitter Functional Test,COMMS,Transmitter,EXAMPLE,v0.0,TBD
+PAYLOAD-001,Payload Power-On Test,PAYLOAD,Payload Electronics,EXAMPLE,v0.0,TBD
+INT-001,Subsystem Interface Test,INTEGRATION,System Interface,EXAMPLE,v0.0,TBD
+INT-002,End-to-End Functional Test,INTEGRATION,Full System,EXAMPLE,v0.0,TBD
