@@ -1,0 +1,1 @@
+Directory for storing documents that will be used during the tests.
